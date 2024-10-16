@@ -1,2 +1,2 @@
 # auto-correct
-auto correct wprds usimg artificial intelligence
+auto correct words usimg artificial intelligence
