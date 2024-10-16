@@ -1,2 +1,2 @@
 # auto-correct
-auto correct words usimg artificial intelligence
+auto correct words using artificial intelligence
